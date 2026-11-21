@@ -1,4 +1,4 @@
-from web_searching import web_search
+from web_searching_tavily import web_search
 from web_scraping import web_scrape
 from llm_models import get_llm
 from utilities import to_obj
